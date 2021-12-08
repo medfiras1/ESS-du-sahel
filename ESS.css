@@ -1,0 +1,128 @@
+
+body{
+    background-image: url(1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(255, 0, 0, 0.699);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: comic sans ms;
+    font-weight: bolder;
+    font-size: medium;
+    letter-spacing: 1mm;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: whitesmoke;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
+  #div1{
+    width: 15cm;
+    height: 13.2cm;
+    border: rgba(202, 176, 176, 0.719) solid 2px;
+    position: absolute;
+    margin-left: 10.4cm;
+    margin-top: 2cm;
+    border-radius: 40px;
+    font-family: "Gill Sans", sans-serif;
+    font-size: large;
+    letter-spacing: 1mm;
+    font-weight: bolder;
+    text-decoration: underline;
+    
+  }
+
+  #div2{
+    position:absolute;
+    width: 9cm;
+    height: 3cm;
+    margin-top: 4.7cm;
+    margin-left: 13.7cm;
+    border-radius: 40px;
+    font-family: "Gill Sans", sans-serif;
+    font-size: large;
+    letter-spacing: 1mm;
+    font-weight: bolder;
+    background-color: whitesmoke;
+    opacity: 60%;
+    
+  }
+
+  #p1{
+    position: relative;
+    margin-left: 1.5cm;
+    margin-top: 1.2cm;
+    
+  }
+
+  #div2:hover{
+    background-color: rgba(255, 0, 0, 0.705);
+    opacity: 120%;
+    
+  }
+
+  #as1{
+    text-decoration: none;
+    color: black;
+
+  }
+
+  #div3{
+    position:absolute;
+    width: 9cm;
+    height: 3cm;
+    margin-top: 4.7cm;
+    margin-left: 13.7cm;
+    border-radius: 40px;
+    font-family: "Gill Sans", sans-serif;
+    font-size: large;
+    letter-spacing: 1mm;
+    font-weight: bolder;
+    background-color: whitesmoke;
+    opacity: 60%;
+    margin-top: 11cm;
+    margin-left: 13.7cm;
+
+  }
+
+  #p2{
+    position: relative;
+    margin-left: 1.5cm;
+    margin-top: 1.2cm;
+  }
+
+  #as2{
+    text-decoration: none;
+    color: black;
+
+  }
+  #div3:hover{
+    background-color: rgba(255, 0, 0, 0.705);
+    opacity: 120%;
+    
+  }
+
+
+  
